@@ -14,3 +14,5 @@ server.listen(port, hostname, () => {
 });
 
 console.log("hello woerld asartim");
+
+console.log("ci/cd pipe created successfully");
